@@ -14,6 +14,5 @@ Product and delivery truth for this service repo.
 | Initiative | Spec | Status |
 |------------|------|--------|
 | INIT-REALWORLD-001 | [`product/INIT-REALWORLD-001-web.md`](product/INIT-REALWORLD-001-web.md) | Draft — Gate 1 consumed; awaiting Forge Draft PR |
-| INIT-REALWORLD-002 | [`product/INIT-REALWORLD-002-web.md`](product/INIT-REALWORLD-002-web.md) | Draft — Gate 1 consumed; awaiting Forge Draft PR |
 
 See [`AGENTS.md`](../../AGENTS.md) for harness and delivery workflow.
